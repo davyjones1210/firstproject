@@ -47,4 +47,6 @@ def add_new_student(name,roll_no,age,course_opted):
     student_data.append(new_student)
     print(student_data)
 
+
+
 add_new_student("Shyam",22,18,"C++")
